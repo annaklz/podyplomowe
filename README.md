@@ -1,3 +1,3 @@
 # podyplomowe
 
-###Dowolny program na laboratorium Git 1
+### Dowolny program na laboratorium Git 1
